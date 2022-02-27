@@ -1,9 +1,8 @@
 ## Funciones
 
 1) Crear una función que reciba un número como parámetro y devuelva si True si es primo y False si no lo es
-a = 10
-print(a)
 
+scas
 2) Utilizando la función del punto 1, realizar otra función que reciba de parámetro una lista de números y devuelva sólo aquellos que son primos en otra lista
 
 3) Crear una función que al recibir una lista de números, devuelva el que más se repite y cuántas veces lo hace. Si hay más de un "más repetido", que devuelva cualquiera
